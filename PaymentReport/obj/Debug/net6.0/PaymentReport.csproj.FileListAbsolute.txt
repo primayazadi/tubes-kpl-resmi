@@ -1,0 +1,36 @@
+D:\kpl\tubes kpl fix\tubesbackuup\PaymentReport\bin\Debug\net6.0\PaymentReport.deps.json
+D:\kpl\tubes kpl fix\tubesbackuup\PaymentReport\bin\Debug\net6.0\PaymentReport.dll
+D:\kpl\tubes kpl fix\tubesbackuup\PaymentReport\bin\Debug\net6.0\PaymentReport.pdb
+D:\kpl\tubes kpl fix\tubesbackuup\PaymentReport\obj\Debug\net6.0\PaymentReport.csproj.AssemblyReference.cache
+D:\kpl\tubes kpl fix\tubesbackuup\PaymentReport\obj\Debug\net6.0\PaymentReport.GeneratedMSBuildEditorConfig.editorconfig
+D:\kpl\tubes kpl fix\tubesbackuup\PaymentReport\obj\Debug\net6.0\PaymentReport.AssemblyInfoInputs.cache
+D:\kpl\tubes kpl fix\tubesbackuup\PaymentReport\obj\Debug\net6.0\PaymentReport.AssemblyInfo.cs
+D:\kpl\tubes kpl fix\tubesbackuup\PaymentReport\obj\Debug\net6.0\PaymentReport.csproj.CoreCompileInputs.cache
+D:\kpl\tubes kpl fix\tubesbackuup\PaymentReport\obj\Debug\net6.0\PaymentReport.dll
+D:\kpl\tubes kpl fix\tubesbackuup\PaymentReport\obj\Debug\net6.0\refint\PaymentReport.dll
+D:\kpl\tubes kpl fix\tubesbackuup\PaymentReport\obj\Debug\net6.0\PaymentReport.pdb
+D:\kpl\tubes kpl fix\tubesbackuup\PaymentReport\obj\Debug\net6.0\ref\PaymentReport.dll
+C:\Users\HP\Downloads\tubesbackuup1\tubesbackuup\PaymentReport\bin\Debug\net6.0\PaymentReport.deps.json
+C:\Users\HP\Downloads\tubesbackuup1\tubesbackuup\PaymentReport\bin\Debug\net6.0\PaymentReport.dll
+C:\Users\HP\Downloads\tubesbackuup1\tubesbackuup\PaymentReport\bin\Debug\net6.0\PaymentReport.pdb
+C:\Users\HP\Downloads\tubesbackuup1\tubesbackuup\PaymentReport\obj\Debug\net6.0\PaymentReport.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\tubesbackuup1\tubesbackuup\PaymentReport\obj\Debug\net6.0\PaymentReport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\tubesbackuup1\tubesbackuup\PaymentReport\obj\Debug\net6.0\PaymentReport.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\tubesbackuup1\tubesbackuup\PaymentReport\obj\Debug\net6.0\PaymentReport.AssemblyInfo.cs
+C:\Users\HP\Downloads\tubesbackuup1\tubesbackuup\PaymentReport\obj\Debug\net6.0\PaymentReport.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\tubesbackuup1\tubesbackuup\PaymentReport\obj\Debug\net6.0\PaymentReport.dll
+C:\Users\HP\Downloads\tubesbackuup1\tubesbackuup\PaymentReport\obj\Debug\net6.0\refint\PaymentReport.dll
+C:\Users\HP\Downloads\tubesbackuup1\tubesbackuup\PaymentReport\obj\Debug\net6.0\PaymentReport.pdb
+C:\Users\HP\Downloads\tubesbackuup1\tubesbackuup\PaymentReport\obj\Debug\net6.0\ref\PaymentReport.dll
+D:\coba\tubesbackuup (1)\tubesbackups\PaymentReport\bin\Debug\net6.0\PaymentReport.deps.json
+D:\coba\tubesbackuup (1)\tubesbackups\PaymentReport\bin\Debug\net6.0\PaymentReport.dll
+D:\coba\tubesbackuup (1)\tubesbackups\PaymentReport\bin\Debug\net6.0\PaymentReport.pdb
+D:\coba\tubesbackuup (1)\tubesbackups\PaymentReport\obj\Debug\net6.0\PaymentReport.csproj.AssemblyReference.cache
+D:\coba\tubesbackuup (1)\tubesbackups\PaymentReport\obj\Debug\net6.0\PaymentReport.GeneratedMSBuildEditorConfig.editorconfig
+D:\coba\tubesbackuup (1)\tubesbackups\PaymentReport\obj\Debug\net6.0\PaymentReport.AssemblyInfoInputs.cache
+D:\coba\tubesbackuup (1)\tubesbackups\PaymentReport\obj\Debug\net6.0\PaymentReport.AssemblyInfo.cs
+D:\coba\tubesbackuup (1)\tubesbackups\PaymentReport\obj\Debug\net6.0\PaymentReport.csproj.CoreCompileInputs.cache
+D:\coba\tubesbackuup (1)\tubesbackups\PaymentReport\obj\Debug\net6.0\PaymentReport.dll
+D:\coba\tubesbackuup (1)\tubesbackups\PaymentReport\obj\Debug\net6.0\refint\PaymentReport.dll
+D:\coba\tubesbackuup (1)\tubesbackups\PaymentReport\obj\Debug\net6.0\PaymentReport.pdb
+D:\coba\tubesbackuup (1)\tubesbackups\PaymentReport\obj\Debug\net6.0\ref\PaymentReport.dll

@@ -1,0 +1,54 @@
+D:\kpl\tubes kpl fix\tubesbackuup\tubesbackuup\obj\Debug\net6.0\tubesbackuup.csproj.AssemblyReference.cache
+D:\kpl\tubes kpl fix\tubesbackuup\tubesbackuup\obj\Debug\net6.0\tubesbackuup.GeneratedMSBuildEditorConfig.editorconfig
+D:\kpl\tubes kpl fix\tubesbackuup\tubesbackuup\obj\Debug\net6.0\tubesbackuup.AssemblyInfoInputs.cache
+D:\kpl\tubes kpl fix\tubesbackuup\tubesbackuup\obj\Debug\net6.0\tubesbackuup.AssemblyInfo.cs
+D:\kpl\tubes kpl fix\tubesbackuup\tubesbackuup\obj\Debug\net6.0\tubesbackuup.csproj.CoreCompileInputs.cache
+D:\kpl\tubes kpl fix\tubesbackuup\tubesbackuup\bin\Debug\net6.0\tubesbackuup.exe
+D:\kpl\tubes kpl fix\tubesbackuup\tubesbackuup\bin\Debug\net6.0\tubesbackuup.deps.json
+D:\kpl\tubes kpl fix\tubesbackuup\tubesbackuup\bin\Debug\net6.0\tubesbackuup.runtimeconfig.json
+D:\kpl\tubes kpl fix\tubesbackuup\tubesbackuup\bin\Debug\net6.0\tubesbackuup.dll
+D:\kpl\tubes kpl fix\tubesbackuup\tubesbackuup\bin\Debug\net6.0\tubesbackuup.pdb
+D:\kpl\tubes kpl fix\tubesbackuup\tubesbackuup\bin\Debug\net6.0\PaymentReport.dll
+D:\kpl\tubes kpl fix\tubesbackuup\tubesbackuup\bin\Debug\net6.0\PaymentReport.pdb
+D:\kpl\tubes kpl fix\tubesbackuup\tubesbackuup\obj\Debug\net6.0\tubesbackuup.csproj.CopyComplete
+D:\kpl\tubes kpl fix\tubesbackuup\tubesbackuup\obj\Debug\net6.0\tubesbackuup.dll
+D:\kpl\tubes kpl fix\tubesbackuup\tubesbackuup\obj\Debug\net6.0\refint\tubesbackuup.dll
+D:\kpl\tubes kpl fix\tubesbackuup\tubesbackuup\obj\Debug\net6.0\tubesbackuup.pdb
+D:\kpl\tubes kpl fix\tubesbackuup\tubesbackuup\obj\Debug\net6.0\tubesbackuup.genruntimeconfig.cache
+D:\kpl\tubes kpl fix\tubesbackuup\tubesbackuup\obj\Debug\net6.0\ref\tubesbackuup.dll
+C:\Users\HP\Downloads\tubesbackuup1\tubesbackuup\tubesbackuup\bin\Debug\net6.0\tubesbackuup.exe
+C:\Users\HP\Downloads\tubesbackuup1\tubesbackuup\tubesbackuup\bin\Debug\net6.0\tubesbackuup.deps.json
+C:\Users\HP\Downloads\tubesbackuup1\tubesbackuup\tubesbackuup\bin\Debug\net6.0\tubesbackuup.runtimeconfig.json
+C:\Users\HP\Downloads\tubesbackuup1\tubesbackuup\tubesbackuup\bin\Debug\net6.0\tubesbackuup.dll
+C:\Users\HP\Downloads\tubesbackuup1\tubesbackuup\tubesbackuup\bin\Debug\net6.0\tubesbackuup.pdb
+C:\Users\HP\Downloads\tubesbackuup1\tubesbackuup\tubesbackuup\bin\Debug\net6.0\PaymentReport.dll
+C:\Users\HP\Downloads\tubesbackuup1\tubesbackuup\tubesbackuup\bin\Debug\net6.0\PaymentReport.pdb
+C:\Users\HP\Downloads\tubesbackuup1\tubesbackuup\tubesbackuup\obj\Debug\net6.0\tubesbackuup.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\tubesbackuup1\tubesbackuup\tubesbackuup\obj\Debug\net6.0\tubesbackuup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\tubesbackuup1\tubesbackuup\tubesbackuup\obj\Debug\net6.0\tubesbackuup.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\tubesbackuup1\tubesbackuup\tubesbackuup\obj\Debug\net6.0\tubesbackuup.AssemblyInfo.cs
+C:\Users\HP\Downloads\tubesbackuup1\tubesbackuup\tubesbackuup\obj\Debug\net6.0\tubesbackuup.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\tubesbackuup1\tubesbackuup\tubesbackuup\obj\Debug\net6.0\tubesbackuup.csproj.CopyComplete
+C:\Users\HP\Downloads\tubesbackuup1\tubesbackuup\tubesbackuup\obj\Debug\net6.0\tubesbackuup.dll
+C:\Users\HP\Downloads\tubesbackuup1\tubesbackuup\tubesbackuup\obj\Debug\net6.0\refint\tubesbackuup.dll
+C:\Users\HP\Downloads\tubesbackuup1\tubesbackuup\tubesbackuup\obj\Debug\net6.0\tubesbackuup.pdb
+C:\Users\HP\Downloads\tubesbackuup1\tubesbackuup\tubesbackuup\obj\Debug\net6.0\tubesbackuup.genruntimeconfig.cache
+C:\Users\HP\Downloads\tubesbackuup1\tubesbackuup\tubesbackuup\obj\Debug\net6.0\ref\tubesbackuup.dll
+D:\coba\tubesbackuup (1)\tubesbackups\tubesbackuup\bin\Debug\net6.0\tubesbackuup.exe
+D:\coba\tubesbackuup (1)\tubesbackups\tubesbackuup\bin\Debug\net6.0\tubesbackuup.deps.json
+D:\coba\tubesbackuup (1)\tubesbackups\tubesbackuup\bin\Debug\net6.0\tubesbackuup.runtimeconfig.json
+D:\coba\tubesbackuup (1)\tubesbackups\tubesbackuup\bin\Debug\net6.0\tubesbackuup.dll
+D:\coba\tubesbackuup (1)\tubesbackups\tubesbackuup\bin\Debug\net6.0\tubesbackuup.pdb
+D:\coba\tubesbackuup (1)\tubesbackups\tubesbackuup\bin\Debug\net6.0\PaymentReport.dll
+D:\coba\tubesbackuup (1)\tubesbackups\tubesbackuup\bin\Debug\net6.0\PaymentReport.pdb
+D:\coba\tubesbackuup (1)\tubesbackups\tubesbackuup\obj\Debug\net6.0\tubesbackuup.csproj.AssemblyReference.cache
+D:\coba\tubesbackuup (1)\tubesbackups\tubesbackuup\obj\Debug\net6.0\tubesbackuup.GeneratedMSBuildEditorConfig.editorconfig
+D:\coba\tubesbackuup (1)\tubesbackups\tubesbackuup\obj\Debug\net6.0\tubesbackuup.AssemblyInfoInputs.cache
+D:\coba\tubesbackuup (1)\tubesbackups\tubesbackuup\obj\Debug\net6.0\tubesbackuup.AssemblyInfo.cs
+D:\coba\tubesbackuup (1)\tubesbackups\tubesbackuup\obj\Debug\net6.0\tubesbackuup.csproj.CoreCompileInputs.cache
+D:\coba\tubesbackuup (1)\tubesbackups\tubesbackuup\obj\Debug\net6.0\tubesbackuup.csproj.CopyComplete
+D:\coba\tubesbackuup (1)\tubesbackups\tubesbackuup\obj\Debug\net6.0\tubesbackuup.dll
+D:\coba\tubesbackuup (1)\tubesbackups\tubesbackuup\obj\Debug\net6.0\refint\tubesbackuup.dll
+D:\coba\tubesbackuup (1)\tubesbackups\tubesbackuup\obj\Debug\net6.0\tubesbackuup.pdb
+D:\coba\tubesbackuup (1)\tubesbackups\tubesbackuup\obj\Debug\net6.0\tubesbackuup.genruntimeconfig.cache
+D:\coba\tubesbackuup (1)\tubesbackups\tubesbackuup\obj\Debug\net6.0\ref\tubesbackuup.dll

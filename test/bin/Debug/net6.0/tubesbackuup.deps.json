@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "tubesbackuup/1.0.0": {
+        "dependencies": {
+          "PaymentReport": "1.0.0"
+        },
+        "runtime": {
+          "tubesbackuup.dll": {}
+        }
+      },
+      "PaymentReport/1.0.0": {
+        "runtime": {
+          "PaymentReport.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tubesbackuup/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PaymentReport/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
