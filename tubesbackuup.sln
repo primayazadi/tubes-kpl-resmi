@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "tubesbackuup", "tubesbackuu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaymentReport", "PaymentReport\PaymentReport.csproj", "{8580480C-ADC4-4613-99CC-A86743008C53}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{31810506-86AA-4B73-A951-9B02A0231DDB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "test", "test\test.csproj", "{31810506-86AA-4B73-A951-9B02A0231DDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test2", "test2\test2.csproj", "{B2C8196E-093E-49E4-ACF9-4A296EE2A254}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{31810506-86AA-4B73-A951-9B02A0231DDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31810506-86AA-4B73-A951-9B02A0231DDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31810506-86AA-4B73-A951-9B02A0231DDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2C8196E-093E-49E4-ACF9-4A296EE2A254}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2C8196E-093E-49E4-ACF9-4A296EE2A254}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2C8196E-093E-49E4-ACF9-4A296EE2A254}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2C8196E-093E-49E4-ACF9-4A296EE2A254}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
